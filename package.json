@@ -1,0 +1,15 @@
+{
+  "name": "mich-tg-hidden-chat",
+  "version": "1.0.0",
+  "description": "یک بات تلگرام حرفه‌ای برای دریافت پیام‌های ناشناس و پاسخ دادن توسط ادمین‌ها.",
+  "license": "GPL-3.0 license",
+  "author": "mich",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  }
+}
